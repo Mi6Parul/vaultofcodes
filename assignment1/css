@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+/* General styles */
+    color: #333;
+}
+
+h1, h2, h3, h4 {
+    color: #0077b6;
+}
+
+/* Header styles */
+header {
+    background-color: #c9dce6;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Section styles */
+section {
+    padding: 20px;
+}
+
+#about p {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+#skills ul, #interests ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#skills ul li, #interests ul li {
+    margin-bottom: 10px;
+}
+
+#projects h4 {
+    margin-top: 20px;
+}
+
+/* Contact section styles */
+#contact {
+    text-align: center;
+}
+
+#contact a {
+    color: #0077b6;
+    text-decoration: none;
+}
+
+#contact a:hover {
+    text-decoration: underline;
+}
