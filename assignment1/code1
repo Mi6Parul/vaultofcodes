@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>PARUL MISHRA</title>
+</head>
+<body>
+    <header>
+        <h1>PARUL MISHRA</h1>
+    </header>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>
+            Hello, I'm Parul Mishra. I have a strong passion for web development and design. With a background in computer science, I strive to create beautiful and functional websites. My interests include front-end and back-end development, UI/UX design, and problem-solving.
+        </p>
+    </section>
+    <section id="skills">
+        <h3>Skills</h3>
+        <ul>
+            <li>HTML5 & CSS3</li>
+            <li>JavaScript</li>
+            <li>Python</li>
+            <li>c     </li>
+            <li>Java  </li>
+        </ul>
+    </section>
+    <section id="interests">
+        <h3>Interests</h3>
+        <ul>
+            <li>Web Development</li>
+            <li>UI/UX Design</li>
+            <li>Problem-Solving</li>
+        </ul>
+    </section>
+    <section id="projects">
+        <h3>Projects</h3>
+        <h4>This is my first project</h4>
+    </section>
+    <section id="contact">
+        <h3>Contact Information</h3>
+        <p>Email: sce21cs085@sairamtap.edu.in</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/parul-mishra-350b77237">LinkedIn Profile</a></p>
+       
+    </section>
+</body>
+</html>
